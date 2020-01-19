@@ -1,0 +1,64 @@
+# # Elixir
+elixirMapDelimiter: 'blue_dkr -'
+# elixirComment: '' # Comment
+# elixirUnusedVariable: '' # Comment
+# elixirAtom: 'purple_dk' # Constant
+# elixirBoolean: 'red_lt' # Constant
+# elixirPseudoVariable: '' # Constant
+# elixirNumber: 'red_lt' # Constant
+# elixirString: 'green' # Constant
+# elixirRegex: 'green_lt' # Constant
+# elixirDocString: '' # Constant
+# elixirAtomInterpolated: '' # Constant
+# elixirSigil: 'blue' # Constant
+# elixirRegexDelimiter: 'blue' # Delimiter
+# elixirStringDelimiter: 'green_lt' # Delimiter
+# elixirInterpolationDelimiter: 'blue' # Delimiter
+# elixirSigilDelimiter: '' # Delimiter
+elixirStructDelimiter: 'blue_dkr -' # Delimiter
+# elixirSpecial: '' # Delimiter
+# elixirRegexEscape: '' # Delimiter
+# elixirRegexEscapePunctuation: '' # Delimiter
+# elixirRegexQuantifier: '' # Delimiter
+# elixirRegexCharClass: '' # Delimiter
+# elixirSelf: '' # Identifier
+elixirVariable: 'text_contrast' # Identifier
+# elixirFunctionDeclaration: 'blue_dk' # Identifier
+# elixirBlockDefinition: 'blue_dk' # Statement
+# elixirKeyword: '' # Statement
+# elixirOperator: 'blue_lt' # Statement
+# elixirInclude: '' # Preproc
+# elixirDefine: '' # Preproc
+# elixirPrivateDefine: '' # Preproc
+# elixirModuleDefine: '' # Preproc
+# elixirProtocolDefine: '' # Preproc
+# elixirImplDefine: '' # Preproc
+# elixirRecordDefine: '' # Preproc
+# elixirPrivateRecordDefine: '' # Preproc
+# elixirMacroDefine: '' # Preproc
+# elixirMacroDeclaration: '' # Preproc
+# elixirPrivateMacroDefine: '' # Preproc
+# elixirDelegateDefine: '' # Preproc
+# elixirOverridableDefine: '' # Preproc
+# elixirExceptionDefine: '' # Preproc
+# elixirCallbackDefine: '' # Preproc
+# elixirStructDefine: '' # Preproc
+# elixirAlias: '' # Type
+# elixirTodo: '' # Todo
+elixirArguments: 'text_contrast -'
+# elixirGuard: ''
+# elixirId: ''
+# elixirInterpolation: ''
+# elixirDocStringStar: ''
+# elixirBlock: ''
+# elixirAnonymousFunction: ''
+# elixirDelimEscape: ''
+# elixirModuleDeclaration: ''
+# elixirProtocolDeclaration: ''
+# elixirImplDeclaration: ''
+# elixirRecordDeclaration: ''
+# elixirDelegateDeclaration: ''
+# elixirOverridableDeclaratio: ''
+# elixirExceptionDeclaration: ''
+# elixirCallbackDeclaration: ''
+# elixirStructDeclaration: ''

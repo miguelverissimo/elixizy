@@ -1,0 +1,14 @@
+name: 'elixizy'
+version: '0.0.1'
+license: 'MIT'
+author: 'Miguel Verissimo'
+url: 'http://github.com/miguelverissimo/elixizy'
+description: 'A vim colorscheme targeted at ruby and elixir development'
+colorschemes:
+  - name: 'elixizy'
+    background: 'dark'
+    palette: 'elixizy'
+lightline:
+- name: 'elixizy'
+  palette: 'elixizy'
+  style: 'night'

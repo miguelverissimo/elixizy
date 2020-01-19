@@ -1,0 +1,85 @@
+ColorColumn: 'yellow shadow'
+Conceal: ''
+Cursor: '- green_lt'
+iCursor: '- gold_lt'
+CursorIM: '- gold_lt'
+CursorColumn: '- bg_accent'
+CursorLine: 'text shadow'
+CursorLineNr: 'gold shadow b'
+Directory: 'yellow_lt -'
+DiffAdd: '- green_dkr'
+DiffChange: '- blue_dkr'
+DiffDelete: 'text red_dk'
+DiffText: 'grey_lt - r'
+ErrorMsg: 'red_lt -'
+VertSplit: 'bg_accent bg_accent'
+Folded: 'grey darker'
+FoldColumn: 'grey darker'
+SignColumn: 'orange_dk bg'
+IncSearch: 'bg highlighted'
+LineNr: 'grey_dk bg_accent'
+MatchParen: 'red_lt - b'
+ModeMsg: 'orange_dk'
+MoreMsg: 'orange_dk'
+NonText: 'grey_dk -'
+Normal: 'text bg'
+PMenu: 'text shadow'
+PMenuSel: 'bg gold'
+PmenuSbar: 'gold_lt -'
+PmenuThumb: 'gold gold'
+Question: 'orange_dk -'
+Search: 'grey_ltr - ub'
+SpecialKey: 'grey_dk -'
+SpellBad: 'gold_lt -'
+SpellLocal: 'gold_lt'
+SpellCap: 'bg gold'
+SpellRare: 'blue'
+StatusLine: 'darker grey b'
+StatusLineNC: 'grey_lt -'
+TabLine: 'grey_lt -'
+TabLineFill: '- grey_dk'
+TabLineSel: 'green_lt - b'
+Title: 'blue_lt - b'
+Visual: '- darkest'
+VisualNOS: '- darkest'
+WarningMsg: 'orange_lt -'
+WildMenu: 'bg green_lt b'
+Comment: 'comment'
+
+Constant: 'purple -'
+
+String: 'green -' # Constant
+Character: 'green -' # Constant
+Boolean: 'red_ltr -' # Constant
+Number: 'red_ltr -' # Constant
+Float: 'red_ltr -' # Constant
+
+Identifier: 'blue_dk -'
+
+Function: 'orange -' # Identifier
+Statement: 'blue_lt -'
+Conditional: 'blue_dkr -' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: 'blue_lt -' # Statement
+Keyword: 'blue_dkr' # Statement
+Exception: 'red_lt -' # Statement
+PreProc: 'blue -' # Reserved words #x
+Include: 'blue -' # PreProc
+Define: 'blue -' # PreProc
+Macro: 'blue -' # PreProc
+PreCondit: 'blue -' # PreProc
+Type: 'yellow -' #x
+StorageClass: '' # Type
+Structure: 'yellow -' # Type
+Typedef: 'yellow -' # Type
+Special: 'blue_dkr -'
+SpecialChar: 'green_lt -' # Special
+Tag: 'purple_dkr -' # Special
+Delimiter: 'green -' # Special
+SpecialComment: 'grey_lt -' # Special
+Debug: '' # Special
+Underlined: '- - u'
+Ignore: ''
+Error: 'red yellow'
+Todo: 'red_lt - b'

@@ -1,0 +1,58 @@
+#purples
+purple_lt: '#ccb7c9'
+purple: '#c7b0c4'
+purple_dk: '#b39eb0'
+purple_dkr: '#9f8c9c'
+
+# reds
+red_ltr: '#d96879'
+red_lt: '#ca2c43'
+red: '#c5152f'
+red_dk: '#b1122a'
+
+# blues
+blue_lt: '#a7d0e8'
+blue: '#7bdcfd'
+blue_dk: '#6ec6e3'
+blue_dkr: '#62b0ca'
+
+# greens
+green_lt: '#b2dfa8'
+green: '#aadc9f'
+green_dk: '#99c68f'
+green_dkr: '#88b07f'
+
+# yellows
+yellow_lt: '#fadd6e'
+yellow: '#fada5e'
+yellow_dk: '#e1c454'
+
+#oranges
+orange_lt: '#ffc519'
+orange: '#ffbf00'
+orange_dk: '#e5ab00'
+
+#golds
+gold_lt: '#d3b987'
+gold: '#ffc24b'
+gold_dk: '#715b2f'
+
+# greys
+grey_ltr: '#8a9aad'
+grey_lt: '#949382'
+grey: '#7b7a69'
+grey_dk: '#61604f'
+
+# misc
+bg: '#132122'
+bg_accent: '#2a3738'
+comment: '#8a9aad'
+highlighted: '#ffffff'
+text: '#e1e0cf'
+text_contrast: '#b3b6a3'
+shadow: '#334152'
+darker: '#1d1d1d'
+darkest: '#040404'
+id: '#ff3392'
+
+

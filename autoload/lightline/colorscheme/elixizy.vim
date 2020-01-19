@@ -4,37 +4,37 @@
 " URL: http://github.com/miguelverissimo/elixizy
 " Author: Miguel Verissimo
 " License: MIT
-" Last Change: 2020/01/18 23:09
+" Last Change: 2020/01/19 10:26
 " ============================================================
 
 let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {} }
 
-let s:p.normal.left = [[["", ], ["", ]], [["#ff3392", 204], ["", ]]]
-let s:p.normal.middle = [[["", ], ["", ]]]
-let s:p.normal.right = [[["", ], ["", ]], [["", ], ["", ]]]
-let s:p.normal.error = [[["", ], ["", ]]]
-let s:p.normal.warning = [[["", ], ["", ]]]
+let s:p.normal.left = [[["#62b0ca", 74], ["#a7d0e8", 152]], [["#132122", 234], ["#7bdcfd", 117]]]
+let s:p.normal.middle = [[["#a7d0e8", 152], ["#6ec6e3", 80]]]
+let s:p.normal.right = [[["#62b0ca", 74], ["#a7d0e8", 152]], [["#132122", 234], ["#7bdcfd", 117]]]
+let s:p.normal.error = [[["#132122", 234], ["#ca2c43", 161]]]
+let s:p.normal.warning = [[["#132122", 234], ["#fada5e", 221]]]
 
-let s:p.inactive.left = [[["", ], ["", ]], [["", ], ["", ]]]
-let s:p.inactive.middle = [[["", ], ["", ]]]
-let s:p.inactive.right = [[["", ], ["", ]], [["", ], ["", ]]]
+let s:p.inactive.left = [[["#b3b6a3", 249], ["#7b7a69", 243]], [["#b3b6a3", 249], ["#7b7a69", 243]]]
+let s:p.inactive.middle = [[["#b3b6a3", 249], ["#61604f", 241]]]
+let s:p.inactive.right = [[["#b3b6a3", 249], ["#7b7a69", 243]], [["#b3b6a3", 249], ["#7b7a69", 243]]]
 
-let s:p.insert.left = [[["", ], ["", ]], [["", ], ["", ]]]
-let s:p.insert.middle = [[["", ], ["", ]]]
-let s:p.insert.right = [[["", ], ["", ]], [["", ], ["", ]]]
+let s:p.insert.left = [[["#88b07f", 108], ["#b2dfa8", 151]], [["#132122", 234], ["#aadc9f", 151]]]
+let s:p.insert.middle = [[["#b2dfa8", 151], ["#99c68f", 114]]]
+let s:p.insert.right = [[["#88b07f", 108], ["#b2dfa8", 151]], [["#132122", 234], ["#aadc9f", 151]]]
 
-let s:p.replace.left = [[["", ], ["", ]], [["", ], ["", ]]]
-let s:p.replace.middle = [[["", ], ["", ]]]
-let s:p.replace.right = [[["", ], ["", ]], [["", ], ["", ]]]
+let s:p.replace.left = [[["#b1122a", 124], ["#ca2c43", 161]], [["#132122", 234], ["#c5152f", 160]]]
+let s:p.replace.middle = [[["#ca2c43", 161], ["#b1122a", 124]]]
+let s:p.replace.right = [[["#b1122a", 124], ["#ca2c43", 161]], [["#132122", 234], ["#c5152f", 160]]]
 
-let s:p.visual.left = [[["", ], ["", ]], [["", ], ["", ]]]
-let s:p.visual.middle = [[["", ], ["", ]]]
-let s:p.visual.right = [[["", ], ["", ]], [["", ], ["", ]]]
+let s:p.visual.left = [[["#e1c454", 185], ["#fadd6e", 221]], [["#132122", 234], ["#fada5e", 221]]]
+let s:p.visual.middle = [[["#fadd6e", 221], ["#e1c454", 185]]]
+let s:p.visual.right = [[["#e1c454", 185], ["#fadd6e", 221]], [["#132122", 234], ["#fada5e", 221]]]
 
-let s:p.tabline.left = [[["", ], ["", ]]]
-let s:p.tabline.tabsel = [[["", ], ["", ]]]
-let s:p.tabline.middle = [[["", ], ["", ]]]
-let s:p.tabline.right = [[["", ], ["", ]]]
+let s:p.tabline.left = [[["#b3b6a3", 249], ["#7b7a69", 243]]]
+let s:p.tabline.tabsel = [[["#132122", 234], ["#b3b6a3", 249]]]
+let s:p.tabline.middle = [[["#7b7a69", 243], ["#61604f", 241]]]
+let s:p.tabline.right = [[["#b3b6a3", 249], ["#7b7a69", 243]]]
 
 let g:lightline#colorscheme#elixizy#palette = lightline#colorscheme#flatten(s:p)
 

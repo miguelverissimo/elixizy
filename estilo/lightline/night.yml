@@ -1,31 +1,39 @@
-normal1: ''
-normal2: 'id'
-normal3: ''
-normal4: ''
-normal5: ''
-normalError: ''
-normalWarning: ''
-inactive1: ''
-inactive2: ''
-inactive3: ''
-inactive4: ''
-inactive5: ''
-insert1: ''
-insert2: ''
-insert3: ''
-insert4: ''
-insert5: ''
-replace1: ''
-replace2: ''
-replace3: ''
-replace4: ''
-replace5: ''
-visual1: ''
-visual2: ''
-visual3: ''
-visual4: ''
-visual5: ''
-tablineLeft: ''
-tablineSelected: ''
-tablineMiddle: ''
-tablineRight: ''
+normal1: 'blue_dkr blue_lt' #  items
+normal2: 'bg blue' #  items
+normal3: 'blue_lt blue_dk' # _lt item
+normal4: 'blue_dkr blue_lt' #  items
+normal5: 'bg blue' #  items
+normalError: 'bg red_lt' # _lt item
+normalWarning: 'bg yellow' # _lt item
+# inactive
+inactive1:  'text_contrast grey' #  items
+inactive2:  'text_contrast grey' #  items
+inactive3: 'text_contrast grey_dk' # _lt item, linking to normal.middle by default
+inactive4: 'text_contrast grey' #  items, linking to normal.right by default
+inactive5: 'text_contrast grey' #  items, linking to normal.right by default
+# insert
+insert1: 'green_dkr green_lt' #  items
+insert2: 'bg green' #  items
+insert3: 'green_lt green_dk' # _lt items, linking to normal.middle by default
+insert4: 'green_dkr green_lt' #  items, linking to normal.right by default
+insert5: 'bg green' #  items, linking to normal.right by default
+# replace
+replace1: 'red_dk red_lt' #  items
+replace2: 'bg red' #  items
+replace3: 'red_lt red_dk' # _lt items, linking to normal.middle by default
+replace4: 'red_dk red_lt' #  items, linking to normal.right by default
+replace5: 'bg red' #  items, linking to normal.right by default
+# visual
+visual1: 'yellow_dk yellow_lt' #  items
+visual2: 'bg yellow' #  items
+visual3: 'yellow_lt yellow_dk' # _lt items, linking to normal.middle by default
+visual4: 'yellow_dk yellow_lt' #  items, linking to normal.right by default
+visual5: 'bg yellow' #  items, linking to normal.right by default
+# tabline
+tablineLeft: 'text_contrast grey' # _lt item
+tablineSelected: 'bg text_contrast' # _lt item
+tablineMiddle: 'grey grey_dk' # _lt item
+tablineRight: 'text_contrast grey' # _lt item
+
+
+

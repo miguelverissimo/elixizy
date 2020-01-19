@@ -4,7 +4,7 @@
 " URL: http://github.com/miguelverissimo/elixizy
 " Author: Miguel Verissimo
 " License: MIT
-" Last Change: 2020/01/18 23:09
+" Last Change: 2020/01/19 10:26
 " ===============================================================
 
 set background=dark
